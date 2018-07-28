@@ -1,0 +1,30 @@
+{
+  "name": "scraper",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattsplats/cheerio_mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattsplats/cheerio_mongo/issues"
+  },
+  "homepage": "https://github.com/mattsplats/cheerio_mongo#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.7.2",
+    "morgan": "^1.7.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
